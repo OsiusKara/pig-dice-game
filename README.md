@@ -7,4 +7,4 @@ This is a simple dice game where two players have the chance to roll the dice to
 
 ## Play Game
 
-To view the website, click Pig Dice Game or copy () to your browser and load it.
+To view the website, copy (https://osiuskara.github.io/pig-dice-game/) to your browser and load it.
